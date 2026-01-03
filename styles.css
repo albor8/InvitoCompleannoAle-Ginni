@@ -192,9 +192,9 @@ body {
 }
 
 .girl-img {
-    width: 170px;
-    height: 170px;
-    border-radius: 50%;
+    width: 180px;
+    height: 200px;
+    border-radius: 12px;
     border: 5px solid #c41e3a;
     box-shadow: 0 8px 20px rgba(196, 30, 58, 0.4),
                 0 0 30px rgba(255, 215, 0, 0.3);
